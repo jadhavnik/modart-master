@@ -1,0 +1,15 @@
+.progressBottom {
+    margin-bottom: 20px;
+}
+
+.progressCurrency {
+    width: 100px;
+}
+
+.table-borderless td,
+.table-borderless th {
+    padding: 8px !important;
+    line-height: 1.57142857 !important;
+    vertical-align: middle !important;
+    border-top: 0px solid #e4eaec !important;
+}
